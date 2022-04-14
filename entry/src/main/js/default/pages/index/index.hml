@@ -1,0 +1,46 @@
+<!--<div>-->
+<!--    <image src="common/images/0.png"></image>-->
+<!--</div>-->
+
+<!-- xxx.hml -->
+    <div class="body">
+        <div class="container">
+            <div class="header">
+                <image class="blue"></image>
+                <image class="fit"></image>
+                <image class="green"></image>
+                <image class="yellow"></image>
+                <image class="red"></image>
+                <image class="grey"></image>
+
+                <image class="bloodbg"></image>
+                <image class="bdox"></image>
+
+                <image class="slp1"></image>
+                <image class="slp2"></image>
+                <image class="slp3"></image>
+                <image class="slp4"></image>
+
+                <image class="calbg"></image>
+                <image class="calr"></image>
+
+                <image class="stepbg"></image>
+                <image class="stepr"></image>
+
+                <image class="temp"></image>
+            </div>
+
+
+            <div>
+                <text class="times">12:35</text>
+                <text class="days">WED</text>
+                <div> <text class="dates">14/7</text></div>
+
+            </div>
+
+            <div>
+            </div>
+
+        </div>
+
+</div>

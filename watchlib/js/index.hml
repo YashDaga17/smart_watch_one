@@ -1,0 +1,7 @@
+<!--<text class="container"> hi this is yash </text>-->
+
+<div class="clockContainer">
+    <div class="hour"></div>
+    <div class="minute"></div>
+    <div class="second"></div>
+</div>

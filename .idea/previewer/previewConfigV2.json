@@ -1,0 +1,24 @@
+{
+ "1.0.0": {
+  "LastPreviewDevice": {}
+ },
+ "1.0.1": {
+  "profileList": [
+   {
+    "id": "Watch3",
+    "deviceType": "wearable",
+    "width": 466,
+    "height": 466,
+    "shape": "circle",
+    "dpi": 320,
+    "orientation": "landscape",
+    "language": "zh_CN",
+    "colorMode": "light"
+   }
+  ],
+  "runningProfileList": [
+   "Watch3"
+  ],
+  "availableProfileList": []
+ }
+}
