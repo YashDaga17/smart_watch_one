@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "mylibrary": "file:../watchlib"
-  }
-}
