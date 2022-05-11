@@ -1,7 +1,4 @@
 # smart_watch_one
-
-Watch Design
-
 * Copyright (C) 2022 Application Library Engineering Group
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,3 +12,7 @@ Watch Design
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+
+## Watch Design
+
+![watch_design](https://user-images.githubusercontent.com/72146802/167786665-9149ea4c-1fd7-48e8-b110-e1d4d62dadf6.png)
