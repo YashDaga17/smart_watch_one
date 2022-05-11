@@ -81,19 +81,19 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/app.js?entry");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/app.js?entry");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/app.js?entry":
-/*!******************************************************************************************!*\
-  !*** C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/app.js?entry ***!
-  \******************************************************************************************/
+/***/ "../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/app.js?entry":
+/*!**********************************************************************************************!*\
+  !*** C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/app.js?entry ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var $app_script$ = __webpack_require__(/*! !../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/script.js!../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/babel-loader?presets[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/preset-env&plugins[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/plugin-transform-modules-commonjs&comments=false!../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/resource-reference-script.js!../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/manifest-loader.js?path=C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/app.js!./app.js */ "./lib/script.js!./node_modules/babel-loader/lib/index.js?presets[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\preset-env&plugins[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!./lib/manifest-loader.js?path=C:\\Users\\dagay\\DevEcoStudioProjects\\Mywatch\\entry\\src\\main\\js\\default\\app.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/app.js")
+var $app_script$ = __webpack_require__(/*! !../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/script.js!../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/babel-loader?presets[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/preset-env&plugins[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/plugin-transform-modules-commonjs&comments=false!../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/resource-reference-script.js!../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/manifest-loader.js?path=C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/app.js!./app.js */ "./lib/script.js!./node_modules/babel-loader/lib/index.js?presets[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\preset-env&plugins[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!./lib/manifest-loader.js?path=C:\\Users\\dagay\\DevEcoStudioProjects\\smart_watch\\entry\\src\\main\\js\\default\\app.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/app.js")
 
       $app_define$('@app-application/app', [], function($app_require$, $app_exports$, $app_module$) {
       
@@ -107,21 +107,21 @@ var $app_script$ = __webpack_require__(/*! !../../../../../../../Downloads/temp/
 
 /***/ }),
 
-/***/ "./lib/manifest-plugin.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/.preview/jsManifest/default/manifest.json":
-/*!****************************************************************************************************************************!*\
-  !*** ./lib/manifest-plugin.js!C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/.preview/jsManifest/default/manifest.json ***!
-  \****************************************************************************************************************************/
+/***/ "./lib/manifest-plugin.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/.preview/jsManifest/default/manifest.json":
+/*!********************************************************************************************************************************!*\
+  !*** ./lib/manifest-plugin.js!C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/.preview/jsManifest/default/manifest.json ***!
+  \********************************************************************************************************************************/
 /*! exports provided: appID, appName, versionName, versionCode, minPlatformVersion, pages, deviceType, window, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"appID\":\"com.example.mywatch\",\"appName\":\"$string:entry_MainAbility\",\"versionName\":\"1.0.0\",\"versionCode\":1000000,\"minPlatformVersion\":6,\"pages\":[\"pages/index/index\"],\"deviceType\":[\"wearable\"],\"window\":{\"autoDesignWidth\":true,\"designWidth\":454}}");
+module.exports = JSON.parse("{\"appID\":\"com.example.smart_watch\",\"appName\":\"$string:entry_MainAbility\",\"versionName\":\"1.0.0\",\"versionCode\":1000000,\"minPlatformVersion\":6,\"pages\":[\"pages/index/index\"],\"deviceType\":[\"phone\",\"tablet\",\"tv\",\"wearable\"],\"window\":{\"autoDesignWidth\":true,\"designWidth\":454}}");
 
 /***/ }),
 
-/***/ "./lib/script.js!./node_modules/babel-loader/lib/index.js?presets[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\preset-env&plugins[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!./lib/manifest-loader.js?path=C:\\Users\\dagay\\DevEcoStudioProjects\\Mywatch\\entry\\src\\main\\js\\default\\app.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/app.js":
-/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./lib/script.js!./node_modules/babel-loader/lib?presets[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/preset-env&plugins[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!./lib/manifest-loader.js?path=C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/app.js!C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/app.js ***!
-  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "./lib/script.js!./node_modules/babel-loader/lib/index.js?presets[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\preset-env&plugins[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!./lib/manifest-loader.js?path=C:\\Users\\dagay\\DevEcoStudioProjects\\smart_watch\\entry\\src\\main\\js\\default\\app.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/app.js":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./lib/script.js!./node_modules/babel-loader/lib?presets[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/preset-env&plugins[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!./lib/manifest-loader.js?path=C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/app.js!C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/app.js ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -141,7 +141,7 @@ var _default = {
 };
 exports["default"] = _default;
 ;
-(exports["default"] || module.exports).manifest = __webpack_require__(/*! !../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/manifest-plugin.js!../../../../.preview/jsManifest/default/manifest.json */ "./lib/manifest-plugin.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/.preview/jsManifest/default/manifest.json");
+(exports["default"] || module.exports).manifest = __webpack_require__(/*! !../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/manifest-plugin.js!../../../../.preview/jsManifest/default/manifest.json */ "./lib/manifest-plugin.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/.preview/jsManifest/default/manifest.json");
 
 function requireModule(moduleName) {
   const systemList = ['system.router', 'system.app', 'system.prompt', 'system.configuration',

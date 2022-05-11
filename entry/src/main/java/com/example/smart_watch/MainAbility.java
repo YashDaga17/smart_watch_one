@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.smart_watch_one;
+package com.example.smart_watch;
 
 import ohos.ace.ability.AceAbility;
 import ohos.aafwk.content.Intent;

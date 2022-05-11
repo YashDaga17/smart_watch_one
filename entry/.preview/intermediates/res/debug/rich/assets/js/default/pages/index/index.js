@@ -81,15 +81,15 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.hml?entry");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.hml?entry");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/i18n/weather_api.json":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/i18n/weather_api.json ***!
-  \***************************************************************************************************/
+/***/ "../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/i18n/weather_api.json":
+/*!*******************************************************************************************************!*\
+  !*** C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/i18n/weather_api.json ***!
+  \*******************************************************************************************************/
 /*! exports provided: 0, 1, default */
 /***/ (function(module) {
 
@@ -97,16 +97,16 @@ module.exports = JSON.parse("[{\"latitude\":\"28.4595\",\"longitude\":\"77.0266\
 
 /***/ }),
 
-/***/ "../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.hml?entry":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.hml?entry ***!
-  \*********************************************************************************************************/
+/***/ "../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.hml?entry":
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.hml?entry ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var $app_template$ = __webpack_require__(/*! !../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/json.js!../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/template.js!./index.hml */ "./lib/json.js!./lib/template.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.hml")
-var $app_style$ = __webpack_require__(/*! !../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/json.js!../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/style.js!./index.css */ "./lib/json.js!./lib/style.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.css")
-var $app_script$ = __webpack_require__(/*! !../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/script.js!../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/babel-loader?presets[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/preset-env&plugins[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/plugin-transform-modules-commonjs&comments=false!../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/resource-reference-script.js!./index.js */ "./lib/script.js!./node_modules/babel-loader/lib/index.js?presets[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\preset-env&plugins[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.js")
+var $app_template$ = __webpack_require__(/*! !../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/json.js!../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/template.js!./index.hml */ "./lib/json.js!./lib/template.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.hml")
+var $app_style$ = __webpack_require__(/*! !../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/json.js!../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/style.js!./index.css */ "./lib/json.js!./lib/style.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.css")
+var $app_script$ = __webpack_require__(/*! !../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/script.js!../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/babel-loader?presets[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/preset-env&plugins[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/plugin-transform-modules-commonjs&comments=false!../../../../../../../../../Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/lib/resource-reference-script.js!./index.js */ "./lib/script.js!./node_modules/babel-loader/lib/index.js?presets[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\preset-env&plugins[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.js")
 
 $app_define$('@app-component/index', [], function($app_require$, $app_exports$, $app_module$) {
 
@@ -124,10 +124,10 @@ $app_bootstrap$('@app-component/index',undefined,undefined)
 
 /***/ }),
 
-/***/ "./lib/json.js!./lib/style.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.css":
-/*!********************************************************************************************************************************!*\
-  !*** ./lib/json.js!./lib/style.js!C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.css ***!
-  \********************************************************************************************************************************/
+/***/ "./lib/json.js!./lib/style.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.css":
+/*!************************************************************************************************************************************!*\
+  !*** ./lib/json.js!./lib/style.js!C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.css ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -382,16 +382,16 @@ module.exports = {
 
 /***/ }),
 
-/***/ "./lib/json.js!./lib/template.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.hml":
-/*!***********************************************************************************************************************************!*\
-  !*** ./lib/json.js!./lib/template.js!C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.hml ***!
-  \***********************************************************************************************************************************/
+/***/ "./lib/json.js!./lib/template.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.hml":
+/*!***************************************************************************************************************************************!*\
+  !*** ./lib/json.js!./lib/template.js!C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.hml ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
 module.exports = {
   "attr": {
-    "debugLine": "pages/index/index:2",
+    "debugLine": "pages/index/index:16",
     "className": "body"
   },
   "type": "div",
@@ -401,7 +401,7 @@ module.exports = {
   "children": [
     {
       "attr": {
-        "debugLine": "pages/index/index:3",
+        "debugLine": "pages/index/index:17",
         "className": "container"
       },
       "type": "div",
@@ -411,7 +411,7 @@ module.exports = {
       "children": [
         {
           "attr": {
-            "debugLine": "pages/index/index:4",
+            "debugLine": "pages/index/index:18",
             "className": "header"
           },
           "type": "div",
@@ -421,7 +421,7 @@ module.exports = {
           "children": [
             {
               "attr": {
-                "debugLine": "pages/index/index:5",
+                "debugLine": "pages/index/index:19",
                 "className": "blue"
               },
               "type": "image",
@@ -431,7 +431,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:6",
+                "debugLine": "pages/index/index:20",
                 "className": "fit"
               },
               "type": "image",
@@ -441,7 +441,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:7",
+                "debugLine": "pages/index/index:21",
                 "className": "fitrange"
               },
               "type": "image",
@@ -451,7 +451,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:8",
+                "debugLine": "pages/index/index:22",
                 "className": "green"
               },
               "type": "image",
@@ -461,7 +461,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:9",
+                "debugLine": "pages/index/index:23",
                 "className": "yellow"
               },
               "type": "image",
@@ -471,7 +471,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:10",
+                "debugLine": "pages/index/index:24",
                 "className": "red"
               },
               "type": "image",
@@ -481,7 +481,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:11",
+                "debugLine": "pages/index/index:25",
                 "className": "grey"
               },
               "type": "image",
@@ -491,7 +491,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:13",
+                "debugLine": "pages/index/index:27",
                 "className": "bloodbg"
               },
               "type": "image",
@@ -501,7 +501,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:14",
+                "debugLine": "pages/index/index:28",
                 "className": "bdox"
               },
               "type": "image",
@@ -511,7 +511,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:16",
+                "debugLine": "pages/index/index:30",
                 "className": "slp1"
               },
               "type": "image",
@@ -521,7 +521,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:17",
+                "debugLine": "pages/index/index:31",
                 "className": "slp2"
               },
               "type": "image",
@@ -531,7 +531,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:18",
+                "debugLine": "pages/index/index:32",
                 "className": "slp3"
               },
               "type": "image",
@@ -541,7 +541,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:19",
+                "debugLine": "pages/index/index:33",
                 "className": "slp4"
               },
               "type": "image",
@@ -551,7 +551,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:21",
+                "debugLine": "pages/index/index:35",
                 "className": "calbg"
               },
               "type": "image",
@@ -561,7 +561,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:22",
+                "debugLine": "pages/index/index:36",
                 "className": "calr"
               },
               "type": "image",
@@ -571,7 +571,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:24",
+                "debugLine": "pages/index/index:38",
                 "className": "stepbg"
               },
               "type": "image",
@@ -581,7 +581,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:25",
+                "debugLine": "pages/index/index:39",
                 "className": "stepr"
               },
               "type": "image",
@@ -591,7 +591,7 @@ module.exports = {
             },
             {
               "attr": {
-                "debugLine": "pages/index/index:27",
+                "debugLine": "pages/index/index:41",
                 "className": "temp"
               },
               "type": "image",
@@ -603,7 +603,7 @@ module.exports = {
         },
         {
           "attr": {
-            "debugLine": "pages/index/index:31",
+            "debugLine": "pages/index/index:45",
             "className": "weather_description"
           },
           "type": "div",
@@ -613,7 +613,7 @@ module.exports = {
           "children": [
             {
               "attr": {
-                "debugLine": "pages/index/index:32",
+                "debugLine": "pages/index/index:46",
                 "value": function () {return this.weather_description}
               },
               "type": "text"
@@ -622,7 +622,7 @@ module.exports = {
         },
         {
           "attr": {
-            "debugLine": "pages/index/index:34",
+            "debugLine": "pages/index/index:48",
             "className": "date"
           },
           "type": "div",
@@ -632,7 +632,7 @@ module.exports = {
           "children": [
             {
               "attr": {
-                "debugLine": "pages/index/index:35",
+                "debugLine": "pages/index/index:49",
                 "value": function () {return (this.date_d) + decodeURI('%20') + (this.date_m) + decodeURI('%20') + (this.date_w)}
               },
               "type": "text"
@@ -641,7 +641,7 @@ module.exports = {
         },
         {
           "attr": {
-            "debugLine": "pages/index/index:37",
+            "debugLine": "pages/index/index:51",
             "className": "time"
           },
           "type": "div",
@@ -651,7 +651,7 @@ module.exports = {
           "children": [
             {
               "attr": {
-                "debugLine": "pages/index/index:38",
+                "debugLine": "pages/index/index:52",
                 "value": "12:00"
               },
               "type": "text"
@@ -665,10 +665,10 @@ module.exports = {
 
 /***/ }),
 
-/***/ "./lib/script.js!./node_modules/babel-loader/lib/index.js?presets[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\preset-env&plugins[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.js":
-/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./lib/script.js!./node_modules/babel-loader/lib?presets[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/preset-env&plugins[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!C:/Users/dagay/DevEcoStudioProjects/Mywatch/entry/src/main/js/default/pages/index/index.js ***!
-  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "./lib/script.js!./node_modules/babel-loader/lib/index.js?presets[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\preset-env&plugins[]=C:\\Users\\dagay\\Downloads\\temp\\SDK-offline-2.2.0.3-winodws\\js\\2.2.0.3\\build-tools\\ace-loader\\node_modules\\@babel\\plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.js":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./lib/script.js!./node_modules/babel-loader/lib?presets[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/preset-env&plugins[]=C:/Users/dagay/Downloads/temp/SDK-offline-2.2.0.3-winodws/js/2.2.0.3/build-tools/ace-loader/node_modules/@babel/plugin-transform-modules-commonjs&comments=false!./lib/resource-reference-script.js!C:/Users/dagay/DevEcoStudioProjects/smart_watch/entry/src/main/js/default/pages/index/index.js ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -685,7 +685,7 @@ var _newArrowCheck2 = _interopRequireDefault(__webpack_require__(/*! @babel/runt
 
 var _system = _interopRequireDefault(requireModule("@system.fetch"));
 
-var _weather_api = _interopRequireDefault(__webpack_require__(/*! ../../i18n/weather_api.json */ "../../../../../../../DevEcoStudioProjects/Mywatch/entry/src/main/js/default/i18n/weather_api.json"));
+var _weather_api = _interopRequireDefault(__webpack_require__(/*! ../../i18n/weather_api.json */ "../../../../../../../DevEcoStudioProjects/smart_watch/entry/src/main/js/default/i18n/weather_api.json"));
 
 var _default = {
   fetchDate: function fetchDate() {

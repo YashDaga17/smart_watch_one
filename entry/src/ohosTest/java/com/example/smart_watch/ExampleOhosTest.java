@@ -1,4 +1,4 @@
-package com.example.smart_watch_one;
+package com.example.smart_watch;
 
 import ohos.aafwk.ability.delegation.AbilityDelegatorRegistry;
 import org.junit.Test;
@@ -9,6 +9,6 @@ public class ExampleOhosTest {
     @Test
     public void testBundleName() {
         final String actualBundleName = AbilityDelegatorRegistry.getArguments().getTestBundleName();
-        assertEquals("com.example.mywatch", actualBundleName);
+        assertEquals("com.example.smart_watch", actualBundleName);
     }
 }

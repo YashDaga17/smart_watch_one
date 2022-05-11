@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.smart_watch_one;
+package com.example.smart_watch;
 
 import ohos.aafwk.ability.AbilityPackage;
 

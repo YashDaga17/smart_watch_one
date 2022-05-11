@@ -1,5 +1,5 @@
 {
-    "appID": "com.example.mywatch",
+    "appID": "com.example.smart_watch",
     "appName": "$string:entry_MainAbility",
     "versionName": "1.0.0",
     "versionCode": 1000000,
@@ -8,6 +8,9 @@
         "pages/index/index"
     ],
     "deviceType": [
+        "phone",
+        "tablet",
+        "tv",
         "wearable"
     ],
     "window": {

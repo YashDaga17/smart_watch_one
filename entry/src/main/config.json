@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.example.mywatch",
+    "bundleName": "com.example.smart_watch",
     "vendor": "example",
     "version": {
       "code": 1000000,
@@ -9,10 +9,13 @@
   },
   "deviceConfig": {},
   "module": {
-    "package": "com.example.smart_watch_one",
+    "package": "com.example.smart_watch",
     "name": ".MyApplication",
-    "mainAbility": "com.example.smart_watch_one.MainAbility",
+    "mainAbility": "com.example.smart_watch.MainAbility",
     "deviceType": [
+      "phone",
+      "tablet",
+      "tv",
       "wearable"
     ],
     "distro": {
@@ -34,7 +37,7 @@
           }
         ],
         "visible": true,
-        "name": "com.example.smart_watch_one.MainAbility",
+        "name": "com.example.smart_watch.MainAbility",
         "icon": "$media:icon",
         "description": "$string:mainability_description",
         "label": "$string:entry_MainAbility",
